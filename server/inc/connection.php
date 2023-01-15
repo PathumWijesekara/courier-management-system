@@ -1,0 +1,1 @@
+<?php $con =  mysqli_connect("localhost", "root", "" , "royal_express_db") or die("Database Connection Fail"); ?>
